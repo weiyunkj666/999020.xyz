@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.999020.xyz</id>
-    <title>个人资料记录</title>
-    <updated>2020-03-10T13:32:18.656Z</updated>
+    <title>写点自己容易忘记的文章</title>
+    <updated>2020-03-10T14:08:48.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.999020.xyz"/>
     <link rel="self" href="https://www.999020.xyz/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://www.999020.xyz/images/avatar.png</logo>
     <icon>https://www.999020.xyz/favicon.ico</icon>
-    <rights>All rights reserved 2020, 个人资料记录</rights>
+    <rights>All rights reserved 2020, 写点自己容易忘记的文章</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://www.999020.xyz/post/hello-gridea/</id>
