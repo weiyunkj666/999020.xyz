@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.999020.xyz</id>
     <title>写点自己容易忘记的文章</title>
-    <updated>2020-12-31T06:03:23.703Z</updated>
+    <updated>2020-12-31T07:25:25.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.999020.xyz"/>
     <link rel="self" href="https://www.999020.xyz/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://www.999020.xyz/images/avatar.png</logo>
     <icon>https://www.999020.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 写点自己容易忘记的文章</rights>
+    <entry>
+        <title type="html"><![CDATA[迁移至Vercel]]></title>
+        <id>https://www.999020.xyz/post/qian-yi-zhi-vercel/</id>
+        <link href="https://www.999020.xyz/post/qian-yi-zhi-vercel/">
+        </link>
+        <updated>2020-12-31T07:23:48.000Z</updated>
+        <content type="html"><![CDATA[<p>博客已经迁移至Vercel，托管在GitHub<br>
+<img src="https://www.999020.xyz/post-images/1609399516037.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://www.999020.xyz/post/hello-gridea/</id>
