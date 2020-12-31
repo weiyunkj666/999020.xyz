@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://999020.vercel.app</id>
+    <id>https://www.999020.xyz</id>
     <title>写点自己容易忘记的文章</title>
-    <updated>2020-12-31T05:58:58.688Z</updated>
+    <updated>2020-12-31T06:03:23.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://999020.vercel.app"/>
-    <link rel="self" href="https://999020.vercel.app/atom.xml"/>
+    <link rel="alternate" href="https://www.999020.xyz"/>
+    <link rel="self" href="https://www.999020.xyz/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://999020.vercel.app/images/avatar.png</logo>
-    <icon>https://999020.vercel.app/favicon.ico</icon>
+    <logo>https://www.999020.xyz/images/avatar.png</logo>
+    <icon>https://www.999020.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 写点自己容易忘记的文章</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://999020.vercel.app/post/hello-gridea/</id>
-        <link href="https://999020.vercel.app/post/hello-gridea/">
+        <id>https://www.999020.xyz/post/hello-gridea/</id>
+        <link href="https://www.999020.xyz/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
