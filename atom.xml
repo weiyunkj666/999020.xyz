@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.999020.xyz</id>
     <title>写点自己容易忘记的文章</title>
-    <updated>2020-12-31T07:25:25.180Z</updated>
+    <updated>2021-01-07T14:50:02.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.999020.xyz"/>
     <link rel="self" href="https://www.999020.xyz/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://www.999020.xyz/images/avatar.png</logo>
     <icon>https://www.999020.xyz/favicon.ico</icon>
-    <rights>All rights reserved 2020, 写点自己容易忘记的文章</rights>
+    <rights>All rights reserved 2021, 写点自己容易忘记的文章</rights>
     <entry>
         <title type="html"><![CDATA[迁移至Vercel]]></title>
         <id>https://www.999020.xyz/post/qian-yi-zhi-vercel/</id>
@@ -18,6 +18,7 @@
         <updated>2020-12-31T07:23:48.000Z</updated>
         <content type="html"><![CDATA[<p>博客已经迁移至Vercel，托管在GitHub<br>
 <img src="https://www.999020.xyz/post-images/1609399516037.jpg" alt="" loading="lazy"></p>
+<p>😎</p>
 ]]></content>
     </entry>
     <entry>
